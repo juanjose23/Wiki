@@ -12,7 +12,7 @@ Este proyecto es una implementación de una enciclopedia estilo Wiki. Permite a 
   - Si la entrada no existe, se muestra una página de error indicando que la página no fue encontrada.
   - Si la entrada existe, se muestra el contenido con el título de la entrada.
 
-### 2. Página de Índice (`index.html`)
+### 2. Página de Índice 
 
 - **Descripción**: Muestra una lista de todas las entradas de enciclopedia.
 - **Características**:
@@ -54,8 +54,8 @@ Este proyecto es una implementación de una enciclopedia estilo Wiki. Permite a 
 1. **Clonar el Repositorio**
 
     ```bash
-    git clone https://github.com/tuusuario/enciclopedia-wiki.git
-    cd enciclopedia-wiki
+    git clonehttps://github.com/juanjose23/Wiki.git
+    cd wiki
     ```
 
 2. **Instalar Dependencias**
